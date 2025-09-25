@@ -1,7 +1,7 @@
 <h1>Hi there, I'm <a href="https://hemant.codes">Daniel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 
 👨🏻‍💻 I'm a Data Scientist | Machine Learning & Artificial Intelligence Specialist  
-🎓 I hold a Bachelor's degree in Economics from the University of Colima, Mexico, with a thesis focused on Econometrics
+🎓 I hold a Bachelor's degree in Economics from the University of Colima, Mexico, with a thesis focused on Econometrics  
 👨🏻‍🎓 I studied Machine Learning & Artificial Intelligence at College LaSalle in Montreal, Canada  
 ⚙️ I specialize in end-to-end AI/ML solutions, from data ingestion and analysis to model development and deployment  
 📊 My expertise is in [predictive data science](https://cloud.google.com/learn/what-is-predictive-analytics) and object detection in computer vision  
